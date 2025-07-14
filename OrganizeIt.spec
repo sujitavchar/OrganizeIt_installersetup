@@ -5,7 +5,7 @@ a = Analysis(
     ['OrganizeIt.py'],
     pathex=[],
     binaries=[],
-    datas=[('icon2.ico', '.')],
+    datas=[('background.jpg', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,4 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['icon2.ico'],
 )
