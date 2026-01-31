@@ -4,6 +4,13 @@
 A modern desktop app that tidies up your files with one click, now trusted by **1 000+ users worldwide**.  
 OrganizeIt v2.0 introduces a sleek UI  rule‑based categorization, custom backgrounds, and a fully installable Windows package.
 
+• Engineered a Python-based automation tool to categorize files by type, serving about 1k users with a 90%
+satisfaction rate.
+• Streamlined user workflows, saving an average of 40% in manual organization time through automatic and
+customizable file handling.
+• Managed the full software lifecycle from development (Python, Tkinter) to deployment using PyInstaller and Inno
+Setup
+
 ---
 
 ## ✨ Key Features
